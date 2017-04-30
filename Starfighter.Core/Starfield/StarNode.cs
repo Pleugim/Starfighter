@@ -11,6 +11,14 @@ namespace Starfighter.Core.Starfield
         public int Id { get; set; }
         public List<StarNode> Adjacents = new List<StarNode>();
 
+        public StarNode()
+        {
+            for (int i = 0; i < 8; i++)
+            {
+                Adjacents.Add(null);
+            }
+        }
+
         public StarNode GetAdjacent(int position)
         {
             position = position % Directions;
@@ -21,6 +29,36 @@ namespace Starfighter.Core.Starfield
             }
 
             return null;
+        }
+
+        public List<int> GetDirectionsFilled()
+        {
+            var result = new List<int>();
+
+            for (int i = 0; i < 8; i++)
+            {
+                if (this.Adjacents[i] != null)
+                {
+                    result.Add(i);
+                }
+            }
+
+            return result;
+        }
+
+        public List<int> GetDirectionsEmpty()
+        {
+            var result = new List<int>();
+
+            for (int i = 0; i < 8; i++)
+            {
+                if (this.Adjacents[i] == null)
+                {
+                    result.Add(i);
+                }
+            }
+
+            return result;
         }
 
     }
