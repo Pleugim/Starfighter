@@ -1,0 +1,7 @@
+C:\Users\Michael Peterson\Documents\Visual Studio 2017\Projects\Starfighter\Starfighter\Starfighter.Core\bin\Debug\netcoreapp1.1\Starfighter.Core.deps.json
+C:\Users\Michael Peterson\Documents\Visual Studio 2017\Projects\Starfighter\Starfighter\Starfighter.Core\bin\Debug\netcoreapp1.1\Starfighter.Core.dll
+C:\Users\Michael Peterson\Documents\Visual Studio 2017\Projects\Starfighter\Starfighter\Starfighter.Core\bin\Debug\netcoreapp1.1\Starfighter.Core.pdb
+C:\Users\Michael Peterson\Documents\Visual Studio 2017\Projects\Starfighter\Starfighter\Starfighter.Core\obj\Debug\netcoreapp1.1\Starfighter.Core.csprojResolveAssemblyReference.cache
+C:\Users\Michael Peterson\Documents\Visual Studio 2017\Projects\Starfighter\Starfighter\Starfighter.Core\obj\Debug\netcoreapp1.1\Starfighter.Core.AssemblyInfo.cs
+C:\Users\Michael Peterson\Documents\Visual Studio 2017\Projects\Starfighter\Starfighter\Starfighter.Core\obj\Debug\netcoreapp1.1\Starfighter.Core.dll
+C:\Users\Michael Peterson\Documents\Visual Studio 2017\Projects\Starfighter\Starfighter\Starfighter.Core\obj\Debug\netcoreapp1.1\Starfighter.Core.pdb
