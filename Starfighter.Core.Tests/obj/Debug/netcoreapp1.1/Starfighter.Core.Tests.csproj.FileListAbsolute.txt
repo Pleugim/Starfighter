@@ -1,0 +1,14 @@
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Starfighter.Core.Tests.deps.json
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Starfighter.Core.Tests.runtimeconfig.json
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Starfighter.Core.Tests.runtimeconfig.dev.json
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Starfighter.Core.Tests.dll
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Starfighter.Core.Tests.pdb
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\obj\Debug\netcoreapp1.1\Starfighter.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\obj\Debug\netcoreapp1.1\Starfighter.Core.Tests.AssemblyInfo.cs
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\obj\Debug\netcoreapp1.1\Starfighter.Core.Tests.dll
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\obj\Debug\netcoreapp1.1\Starfighter.Core.Tests.pdb
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Starfighter.Core.dll
+C:\Users\Michael Peterson\Documents\GitHub\Starfighter\Starfighter.Core.Tests\bin\Debug\netcoreapp1.1\Starfighter.Core.pdb
